@@ -5,3 +5,8 @@ resep :
 4.keju
 5.saus
 6.garam
+7. air
+8. tepung
+9. micin
+10. sosis
+11. mayo
