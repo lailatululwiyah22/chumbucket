@@ -1,0 +1,4 @@
+resep :
+1. daging
+2.sayur
+3.telor
