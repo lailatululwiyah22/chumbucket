@@ -2,3 +2,6 @@ resep :
 1. daging
 2.sayur
 3.telor
+4.keju
+5.saus
+6.garam
